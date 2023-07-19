@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tudilis/static/css/main.e6c13ad2.css",
+    "main.js": "/Tudilis/static/js/main.1745900b.js",
+    "index.html": "/Tudilis/index.html",
+    "main.e6c13ad2.css.map": "/Tudilis/static/css/main.e6c13ad2.css.map",
+    "main.1745900b.js.map": "/Tudilis/static/js/main.1745900b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1745900b.js"
+  ]
+}
